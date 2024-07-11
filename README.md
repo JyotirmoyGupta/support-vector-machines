@@ -1,0 +1,1 @@
+This repository contains Jupyter notebooks demonstrating all the implementation and visualization of all kinds of support vector machines. The datasets are created and the models are implemented using Scikit-learn. 
